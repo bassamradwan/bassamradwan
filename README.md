@@ -52,7 +52,7 @@
 - 🌐 [Portfolio Website](https://your-website.com) 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bassam-mohamed-11a08b249/)
 
-- 📧 Email: [your-email@gmail.com](mailto:bassam.mohmedali@gmail.com)  
+- 📧 Email: [bassam.mohmedali@gmail.com](mailto:bassam.mohmedali@gmail.com)  
 - 💼 [LinkedIn](https://github.com/bassamradwan)
 
 ---
