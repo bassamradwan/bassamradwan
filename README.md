@@ -1,62 +1,29 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/000000?v=4" width="150" style="border-radius: 50%; margin-bottom: 10px;" />
-  
-  <h1>Hi, I'm Bassam Mohamed Ali 👋</h1>
-  <p>💻 Full-Stack Developer | 📍 Egypt</p>
+# Hi, I'm Bassam Mohamed Ali 👋
 
-  <p>✨ Creativity is intelligence having fun! ✨</p>
-  
-  <a href="mailto:bassam.mohmedali@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/bassam-mohamed-11a08b249/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+**Full-Stack Developer** · React / Next.js · Node.js · TypeScript · React Native · 📍 Egypt
 
----
+I build web and mobile apps for clients: admin dashboards, booking and operations systems, often with Arabic (right-to-left) interfaces. I care about the parts users never see: validation on the server, tests, and code I can explain line by line.
 
-## 🧑‍💻 About Me :
-- 🌐 I work as a **Full-Stack Developer** with a passion for **web technologies**.
-- ⚙️ Skilled in **Express**, **React.js**, and **RESTful APIs**.
-- 🚀 Enjoy building **command-line tools** to automate workflows.
-- 🌱 I’m currently exploring new tools and frameworks in the tech world.
-- 💬 Ask me about Python, JavaScript, or web development!
-- ❤️ I love open-source and sharing my knowledge with others.
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bassam.mohmedali@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bassam-mohamed-11a08b249/)
 
----
+## Featured projects
 
-## 🛠️ Tech Stack:
-- **Frontend:** React.js,React Native (CLI & Expo), HTML5, CSS3, JavaScript (ES6+)
-- **Backend:**  Node.js, Express.js
-- **Database:** MongoDB
-- **Tools:** Git, GitHub, VS Code
+| Project | What it is | Stack |
+|---|---|---|
+| [**egypt-validators**](https://github.com/bassamradwan/egypt-validators) | A library that validates and normalizes Egyptian mobile numbers, national IDs (birth date, governorate, gender) and Arabic digits. 90 tests, CI on Node 18 to 24. | TypeScript, Zod, Vitest, GitHub Actions |
+| [**book-store-app**](https://github.com/bassamradwan/book-store-app) | A REST API for a bookstore: books, authors, JWT auth with an admin role, one-time password reset links by email, image upload. | Node.js, Express, MongoDB, Joi |
+| [**mini-driver**](https://github.com/bassamradwan/Car-booking-apps) | A mobile prototype, in Arabic, for intercity ride sharing: driver and passenger flows, route picking on a map. | React Native, Expo, TypeScript |
 
----
+## Client work
 
-## 🌱 Currently Working On:
-- Building cross-platform mobile apps using **React Native CLI** and **Expo** for seamless user experiences.
-- Exploring new technologies and tools to improve my development workflow.
+Most of my client work is private: operations systems for contracting companies, and a medical services marketplace built with Next.js and TypeScript. I'm happy to walk through them in an interview.
 
----
+## Tech stack
 
-## 📈 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bassamradwan&show_icons=true&theme=radical&count_private=true" height="150px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bassamradwan&layout=compact&theme=radical" height="150px" />
-</div>
-
----
-
-## 🔗 Let's Connect:
-- 🌐 [Portfolio Website](https://your-website.com) 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bassam-mohamed-11a08b249/)
-
-- 📧 Email: [bassam.mohmedali@gmail.com](mailto:bassam.mohmedali@gmail.com)  
-- 💼 [LinkedIn](https://github.com/bassamradwan)
-
----
-
-<div align="center">
-  <p>Made with ❤️ by Bassam Mohamed Ali</p>
-</div>
+- **Languages:** TypeScript, JavaScript
+- **Frontend:** React, Next.js, Tailwind CSS, Redux Toolkit, React Query
+- **Mobile:** React Native, Expo
+- **Backend:** Node.js, Express, MongoDB (Mongoose), Firebase
+- **Quality:** Zod, Joi, Vitest, Docker, GitHub Actions
+- **Arabic and RTL** interfaces, translations (i18n)
