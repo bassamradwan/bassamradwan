@@ -1,6 +1,6 @@
 # Hi, I'm Bassam Mohamed Ali 👋
 
-**Full-Stack Developer** · React / Next.js · Node.js · TypeScript · React Native · 📍 Egypt
+**Full-Stack Developer** · React / Next.js · React Native · Node.js · TypeScript · 📍 Egypt
 
 I build web and mobile apps for clients: admin dashboards, booking and operations systems, often with Arabic (right-to-left) interfaces. I care about the parts users never see: validation on the server, tests, and code I can explain line by line.
 
