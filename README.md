@@ -11,6 +11,7 @@ I build web and mobile apps for clients: admin dashboards, booking and operation
 
 | Project | What it is | Stack |
 |---|---|---|
+| [**Electricity bill calculator**](https://bassamradwan.github.io/egypt-electricity-bill/) ([code](https://github.com/bassamradwan/egypt-electricity-bill)) | A live calculator, in Arabic and English, for Egyptian home electricity bills: the bill tier by tier, and why 651 kWh costs EGP 370 more than 650. Official 2026 prices, 74 tests. | Next.js, TypeScript, Tailwind CSS, Vitest |
 | [**egypt-validators**](https://github.com/bassamradwan/egypt-validators) | A library that validates and normalizes Egyptian mobile numbers, national IDs (birth date, governorate, gender) and Arabic digits. 90 tests, CI on Node 18 to 24. | TypeScript, Zod, Vitest, GitHub Actions |
 | [**book-store-app**](https://github.com/bassamradwan/book-store-app) | A REST API for a bookstore: books, authors, JWT auth with an admin role, one-time password reset links by email, image upload. | Node.js, Express, MongoDB, Joi |
 | [**mini-driver**](https://github.com/bassamradwan/Car-booking-apps) | A mobile prototype, in Arabic, for intercity ride sharing: driver and passenger flows, route picking on a map. | React Native, Expo, TypeScript |
